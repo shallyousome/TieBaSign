@@ -1,6 +1,6 @@
 # Sign  
 
-## 今日签到状态
+## Sign State
 
 ![Baidu Tieba Auto Sign](https://github.com/gwtak/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)      
 
