@@ -179,6 +179,7 @@ def send_email(sign_list):
         return
     HOST = ENV['HOST']
     FROM = ENV['FROM']
+    logger.info("发送邮件HOST:" +HOST+" FROM:"+FROM )
     TO = ENV['TO'].split('#')
     AUTH = ENV['AUTH']
     length = len(sign_list)
